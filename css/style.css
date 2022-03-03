@@ -1,0 +1,40 @@
+#smartphone {
+    margin-top: 70px;
+}
+
+#leptop {
+    margin-top: 70px;
+    margin-bottom: 70px;
+}
+
+.buy-btn {
+    background-color: black;
+    color: white;
+    padding: 5px 10px;
+    border-radius: 5px;
+    font-size: 13px;
+}
+
+.card {
+    box-shadow: 5px 10px 10px #ddd;
+}
+
+
+/* smartphone end */
+
+.under-line {
+    border-bottom: 4px solid orange;
+    width: 150px;
+}
+
+.catagories-heading {
+    margin-bottom: 70px;
+}
+
+#footer {
+    min-height: 200px;
+    background-color: #E78688;
+    color: white;
+    text-align: center;
+    padding-top: 80px;
+}
